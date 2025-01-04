@@ -10,9 +10,9 @@ arrays objects, etc
 
 
 ***
-Dynamically Typed: This means you don't need to declare the type of a variable explicitly when you
- create it. The type of the variable is determined automatically at runtime based on the value 
- assigned to it.
+Dynamically Typed: This means you don't need to declare the type of a variable explicitly
+ when you create it. The type of the variable is determined automatically at runtime
+  based on the value assigned to it.
 
 
 
@@ -49,3 +49,4 @@ newObj.key = "newValue"; // Modifying 'newObj' affects 'obj'
 
 console.log(obj.key); // Output: "newValue"
 console.log(newObj.key); // Output: "newValue"
+console.log(arr[2])
